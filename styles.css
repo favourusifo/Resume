@@ -1,0 +1,47 @@
+body {
+  background-color: #FEF5ED;
+}
+
+hr {
+  background-color: #FEF5ED;
+  border-style: none;
+  border-color: black;
+  border-width: 4px;
+  border-top-style: dotted;
+  width: 30%;
+}
+
+img {
+  height: 250px;
+}
+
+h1 {
+  color: #3A6351;
+
+}
+
+h3 {
+  color: #116530;
+
+}
+
+/* unvisited link */
+a:link {
+  color: #105652;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #B6C867;
+}
+}
